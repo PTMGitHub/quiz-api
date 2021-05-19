@@ -13,3 +13,4 @@ dist/
 
 # zip file is generated, so don't store in git
 *.zip
+/.idea/
